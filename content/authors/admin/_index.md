@@ -10,7 +10,11 @@ role: （Wang ZeYu）
 
 # Organizations/Affiliations to show in About widget
 organizations:
+<<<<<<< HEAD
 -name: (Age: 21 y/o)
+=======
+name: (Age: 21 y/o)
+>>>>>>> master
 
 
 # Short bio (displayed in user profile at end of posts)
