@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Wang ZeYu
+title: 王泽宇
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Bachelor of Engineering in Vehicle Engineering (Expected)
+role: （Wang ZeYu）
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Northeastern University
-  url: https://www.stanford.edu/
+-name: (Age: 21 y/o)
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
